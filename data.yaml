@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/CrowdDensityProject/crowd_dataset/train/images
+val: /content/drive/MyDrive/CrowdDensityProject/crowd_dataset/valid/images
+test: /content/drive/MyDrive/CrowdDensityProject/crowd_dataset/test/images
+
+nc: 1
+names: ['person']
